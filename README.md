@@ -4,6 +4,10 @@
 [![Latest Release](https://img.shields.io/github/release/constanline/XQuickEnergy.svg)](../../releases)
 [![All Releases Download](https://img.shields.io/github/downloads/constanline/XQuickEnergy/total.svg)](../../releases)
 
+
+## 主要修改
+增加大小号功能，主要是防止未实名小号施肥，影响种果树。
+
 ## 主要功能
 感谢蚂蚁森林对绿化事业的贡献。快速收取蚂蚁森林能量，也为祖国的绿化事业出一份微薄之力~
 
