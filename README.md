@@ -15,6 +15,6 @@
 
 选择配置文件后返回，即可保存选择，默认一个号一个配置文件，也可以自行选择。选择后确定，返回。表示选择完成。
 
-![Demo](https://raw.githubusercontent.com/buddingworld/XQuickEnergy/master/Screenshot_2023-09-05-22-44-22-750_pansong291.xposed.quickenergy.repair2.jpg "Demo")
+![Demo](https://raw.githubusercontent.com/buddingworld/XQuickEnergy/master/Screenshot_2023-09-05-22-44-22-750.jpg "Demo")
 
 ##  其余部分介绍全部如原版，此处不累赘。
