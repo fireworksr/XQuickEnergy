@@ -4,7 +4,6 @@
 [![Latest Release](https://img.shields.io/github/release/buddingworld/XQuickEnergy.svg)](../../releases)
 [![All Releases Download](https://img.shields.io/github/downloads/buddingworld/XQuickEnergy/total.svg)](../../releases)
 
-![选择配置文件后返回，即可保存选择](https://raw.githubusercontent.com/buddingworld/XQuickEnergy/master/Screenshot_2023-09-05-22-44-22-750_pansong291.xposed.quickenergy.repair2.jpg "Demo")
 
 ## 主要修改
 增加大小号功能，主要是防止未实名小号施肥，影响种果树。
@@ -14,6 +13,8 @@
 ## 其它说明
 功能上没有任何新增/修改/删除，也未修补任何（明面上or潜在的）bug。
 
+选择配置文件后返回，即可保存选择，默认一个号一个配置文件，也可以自行选择。选择后确定，返回。表示选择完成。
 
+![Demo](https://raw.githubusercontent.com/buddingworld/XQuickEnergy/master/Screenshot_2023-09-05-22-44-22-750_pansong291.xposed.quickenergy.repair2.jpg "Demo")
 
 ##  其余部分介绍全部如原版，此处不累赘。
