@@ -13,7 +13,7 @@
 ## 其它说明
 功能上没有任何新增/修改/删除，也未修补任何（明面上or潜在的）bug。
 
-选择配置文件后返回，即可保存选择，默认一个号一个配置文件，也可以自行选择。选择后确定，返回。表示选择完成。
+选择配置文件后返回，即可保存选择，默认一个号一个配置文件，也可以自行选择。选择后确定，
 
 ![Demo](https://raw.githubusercontent.com/buddingworld/XQuickEnergy/master/Screenshot_2023-09-05-22-44-22-750.jpg "Demo")
 
